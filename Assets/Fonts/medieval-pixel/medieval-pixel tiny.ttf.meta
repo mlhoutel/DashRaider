@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9f56b9dd22ca5d84b87ff74a6cbfb0e4
+timeCreated: 1559839561
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Medieval Pixel
+  fontNames:
+  - Medieval Pixel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

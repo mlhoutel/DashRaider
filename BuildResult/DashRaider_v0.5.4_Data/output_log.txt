@@ -1,0 +1,79 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   27.21.14.5751
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.015 seconds
+Platform assembly: D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\Projets\DashRaider\BuildResult\DashRaider_v0.5.4_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.682900 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2520 -> priority: 1 
+  Thread -> id: 105c -> priority: 1 
+  Thread -> id: b38 -> priority: 1 
+  Thread -> id: 2020 -> priority: 1 
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.809100 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 1925.
+Total: 1.220500 ms (FindLiveObjects: 0.085700 ms CreateObjectMapping: 0.034600 ms MarkObjects: 0.297800 ms  DeleteObjects: 0.801800 ms)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[UnityEngine.GameObject].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at LifesGraphics.UpdateHarts (UnityEngine.GameObject sender) [0x00000] in <filename unknown>:0 
+  at LifesGraphics.Degats_OnLoad (UnityEngine.GameObject sender) [0x00000] in <filename unknown>:0 
+  at TakeDamagePlayer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+PorteMoving : Received activation event from Lever
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PorteMoving : Received activation event from Lever
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PorteMoving : Received activation event from Lever (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PorteMoving : Received activation event from Lever
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PorteMoving : Received activation event from Lever (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PorteMoving : Received activation event from Lever (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PorteMoving : Received activation event from Skeleton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.684600 ms
+
+Unloading 223 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 1.412200 ms (FindLiveObjects: 0.032500 ms CreateObjectMapping: 0.023000 ms MarkObjects: 0.254600 ms  DeleteObjects: 1.101300 ms)
+
